@@ -1,4 +1,6 @@
 sudoku
 ======
 
-Brute force (w/ Backtracking) sudoku solver with basic GUI
+Basic GUI for solving sudoku puzzles.
+
+Uses brute force with backtracking.
